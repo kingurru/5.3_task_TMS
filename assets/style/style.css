@@ -1,0 +1,40 @@
+.green_1 {
+  margin: auto;
+  width: 60vw;
+  height: 95vh;
+  border: 5px solid rgb(6, 255, 6);
+}
+
+.red_4 {
+  margin: 10px auto;
+  width: 95%;
+  height: 15%;
+  border: 5px solid red;
+}
+
+.blue_3 {
+  margin: auto;
+  width: 25%;
+  height: 80%;
+  border: 5px solid blue;
+}
+
+.yellow_2 {
+  margin: 5px auto;
+  width: 90%;
+  height: 30%;
+  border: 5px solid rgb(255, 208, 0);
+}
+
+.blue_4 {
+  margin: auto;
+  width: 23%;
+  height: 70%;
+  border: 5px solid blue;
+}
+.blue_2{
+    margin: auto;
+    width: 70%;
+    height: 90%;
+    border: 5px solid blue;  
+}
